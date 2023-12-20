@@ -4,7 +4,7 @@ public class Hooks {
 
 	public static void main(String[] args) {
 
-System.out.println("master branch");
+System.out.println("developbranch from Y");
 
 
 	}
