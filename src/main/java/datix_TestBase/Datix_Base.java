@@ -47,7 +47,6 @@ public class Datix_Base {
 	driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 	driver.manage().window().maximize();
 
-
 	}
 	
 	
